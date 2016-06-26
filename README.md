@@ -1,2 +1,2 @@
-# ICECreatureUniStormAdapter
-The ICECreatureUniStormAdapter handles the integration of the UniStrom
+# ICEWorldUniStormAdapter
+The ICEWorldUniStormAdapter handles the integration of the UniStrom
